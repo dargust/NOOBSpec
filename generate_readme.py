@@ -14,7 +14,7 @@ print(png_files)
 
 with open(readme_file, "w") as f:
     f.write("# NOOBSpec canopy repository\n")
-    f.write("Collection of files for the noobspec whoop frame\n")
+    f.write("Collection of pods for the iron-skull noobspec whoop frame by iron-ryan\n")
     f.write("\n\n")
     f.write("## Images\n")
     last_dir = ""

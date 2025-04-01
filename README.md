@@ -1,5 +1,5 @@
 # NOOBSpec canopy repository
-Collection of files for the noobspec whoop frame
+Collection of pods for the iron-skull noobspec whoop frame by iron-ryan
 
 
 ## Images
