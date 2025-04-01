@@ -19,7 +19,7 @@ with open(readme_file, "w") as f:
     f.write("## Images\n")
     last_dir = ""
     line_position = 1
-    max_images_per_line = 2
+    max_images_per_line = 3
     for dir_file in png_files:
         #if the directory is not the same as the last directory, write the directory name as header
         if dir_file[0] != last_dir:
