@@ -8,3 +8,5 @@ Collection of pods for the iron-skull noobspec whoop frame by iron-ryan
 ![turt TinyWhoopPinch 40.png](https://github.com/dargust/NOOBSpec/blob/main/Dacus/turt%20TinyWhoopPinch%2040.png?raw=true) 
 ### Iron-Ryan
 ![runcam nano 3 45°.png](https://github.com/dargust/NOOBSpec/blob/main/Iron-Ryan/runcam%20nano%203%2045°.png?raw=true) 
+### MrE
+![MrE-Eco-IRC-NoobspecV1-Canopy.png](https://github.com/dargust/NOOBSpec/blob/main/MrE/MrE-Eco-IRC-NoobspecV1-Canopy.png?raw=true) 
