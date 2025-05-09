@@ -13,4 +13,4 @@ Collection of pods for the iron-skull noobspec whoop frame by iron-ryan
 ### kiz
 ![noobant CaddxAntNano.png](https://github.com/dargust/NOOBSpec/blob/main/kiz/noobant%20CaddxAntNano.png?raw=true) 
 ### MrE
-![MrE-Eco-IRC-NoobspecV1-Canopy.png](https://github.com/dargust/NOOBSpec/blob/main/MrE/MrE-Eco-IRC-NoobspecV1-Canopy.png?raw=true) 
+![MrE-Eco-IRC-NoobspecV1-Canopy.png](https://github.com/dargust/NOOBSpec/blob/main/MrE/MrE-Eco-IRC-NoobspecV1-Canopy.png?raw=true) ![MrE-Lux-IRC-NoobspecV1-Canopy.png](https://github.com/dargust/NOOBSpec/blob/main/MrE/MrE-Lux-IRC-NoobspecV1-Canopy.png?raw=true) 
