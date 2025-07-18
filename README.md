@@ -4,6 +4,8 @@ Collection of pods for the iron-skull noobspec whoop frame by iron-ryan
 
 ## Images
 
+### Aaron
+![Noob lid v5.png](https://github.com/dargust/NOOBSpec/blob/main/Aaron/Noob%20lid%20v5.png?raw=true) 
 ### Dacus
 ![450mahBattHolder.png](https://github.com/dargust/NOOBSpec/blob/main/Dacus/450mahBattHolder.png?raw=true) ![mcob TinyWhoopPinch 40.png](https://github.com/dargust/NOOBSpec/blob/main/Dacus/mcob%20TinyWhoopPinch%2040.png?raw=true) ![smpl RunCamNano3_w_skull 40.png](https://github.com/dargust/NOOBSpec/blob/main/Dacus/smpl%20RunCamNano3_w_skull%2040.png?raw=true) ![smpl RunCamNano3_w_skull Large 40.png](https://github.com/dargust/NOOBSpec/blob/main/Dacus/smpl%20RunCamNano3_w_skull%20Large%2040.png?raw=true) ![smpl RunCamNano4_V3 40.png](https://github.com/dargust/NOOBSpec/blob/main/Dacus/smpl%20RunCamNano4_V3%2040.png?raw=true) ![turt TinyWhoopPinch 40.png](https://github.com/dargust/NOOBSpec/blob/main/Dacus/turt%20TinyWhoopPinch%2040.png?raw=true) 
 ### Iron-Ryan
